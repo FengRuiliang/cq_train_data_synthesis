@@ -1,0 +1,3 @@
+[submodule "cq_tracker"]
+	path = cq_tracker
+	url = https://github.com/FengRuiliang/cq_tracker.git
